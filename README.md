@@ -1,2 +1,2 @@
-# Padr-o_React
+# Padrao_React
 Arquitetura padrão de um projeto React
