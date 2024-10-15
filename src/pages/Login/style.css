@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 80px;
+}
+
+h1{
+    color: black;
+    font-size: 40px;
+    margin-top: 0px;
+}
+
+p{
+    font-size: 32px;
+}
+
+.form{
+    display: flex;
+    padding: 10px;
+    padding-right: 80px;
+    margin: 15px;
+}
