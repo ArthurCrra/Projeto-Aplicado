@@ -1,0 +1,21 @@
+
+#tabela{
+    width: 994px;
+    height: 196px;
+    margin: auto;
+    text-decoration: none;
+    padding: 10px 15px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+#head{
+    padding: 15px;
+    text-align: center;
+}
+
+#body{
+    padding: 15px;
+    margin-bottom: 5px;
+    text-align: center;
+}
